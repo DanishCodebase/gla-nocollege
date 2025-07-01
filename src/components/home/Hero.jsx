@@ -215,8 +215,8 @@ export default function Hero() {
         </CarouselContent>
 
         {/* Enhanced Navigation Buttons */}
-        <CarouselPrevious className="absolute left-1 sm:left-4 sm:left-16 top-1/2 -translate-y-1/2 bg-white/10 backdrop-blur-md border-white/20 text-white hover:bg-white/30 hover:text-white hover:scale-110 transition-all duration-300 w-8 h-8 rounded-full shadow-2xl" />
-        <CarouselNext className="absolute right-1 sm:right-4 sm:right-16 top-1/2 -translate-y-1/2 bg-white/10 backdrop-blur-md border-white/20 text-white hover:bg-white/30 hover:text-white hover:scale-110 transition-all duration-300 w-8 h-8 rounded-full shadow-2xl" />
+        {/* <CarouselPrevious className="absolute left-1 sm:left-4 sm:left-16 top-1/2 -translate-y-1/2 bg-white/10 backdrop-blur-md border-white/20 text-white hover:bg-white/30 hover:text-white hover:scale-110 transition-all duration-300 w-8 h-8 rounded-full shadow-2xl" />
+        <CarouselNext className="absolute right-1 sm:right-4 sm:right-16 top-1/2 -translate-y-1/2 bg-white/10 backdrop-blur-md border-white/20 text-white hover:bg-white/30 hover:text-white hover:scale-110 transition-all duration-300 w-8 h-8 rounded-full shadow-2xl" /> */}
       </Carousel>
 
       {/* Enhanced Side Progress Bar */}
